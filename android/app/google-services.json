@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24475077490",
+    "project_id": "findom-6eb94",
+    "storage_bucket": "findom-6eb94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24475077490:android:9648352369912c44efebeb",
+        "android_client_info": {
+          "package_name": "com.example.findhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyOIFnjZDZGJ5n1y7TugVRfWpxY1rg1uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
